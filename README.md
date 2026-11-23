@@ -236,6 +236,6 @@ CGPA: **8.9/10**
 
 **Java Backend Developer · Backend Engineer · Associate Software Engineer · Software Developer**
 
-📍 Chennai | Bengaluru | Remote
+📍 Chennai | Bengaluru | Hyderabad | Kochi | Remote
 
 </div>
