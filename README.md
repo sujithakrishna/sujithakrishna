@@ -20,7 +20,7 @@
 - 💻 Focused on **Java backend development**, APIs, database-backed applications, and transaction-oriented workflows
 - 🛠️ Hands-on experience through projects and freelance backend development
 - 🔍 Interested in backend engineering problems involving **data integrity, validation, concurrency, security, and reliable workflows**
-- 📍 Open to opportunities in **Chennai and Bengaluru**, as well as suitable remote roles
+- 📍 Open to opportunities in **Chennai,Bengaluru,Hyderabad,kochi**, as well as suitable remote roles
 
 ---
 
